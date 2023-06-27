@@ -7,7 +7,7 @@
 <ul>
   <li>🎯 I'm currently working on the Python programming language. </li>
   <li>👨🏻‍💻 I’m currently data science and machine learning.</li>
-  <li>🔍 Linkedin: https://www.linkedin.com/in/kenan-%C3%BCnal-4517a117a/</li>
+  <li>🔍 Linkedin: <a href"https://www.linkedin.com/in/kenan-unal/"><https://www.linkedin.com/in/kenan-unal<a/></li>
   <li>📬 E-mail: <a href="mailto:kenan310kenan@gmail.com">kenan310kenan@gmail.com</a></li>
 </ul>
 
