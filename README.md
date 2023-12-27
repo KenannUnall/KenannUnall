@@ -1,7 +1,5 @@
 # Hi, I'm Kenan👋
 
-<img src="https://github-readme-stats.vercel.app/api?username=KenannUnall"/>
-
 ## Welcome to my profile page. 
 
 <ul>
