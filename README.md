@@ -4,6 +4,7 @@
 <h3 align="center">A computer engineer with a passion for artificial intelligence and data science</h3>
 
 - 🔭 I’m currently working on **Deep Learning, Data Science**
+- 🔭 I’m currently working on **Python Programming Language**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
