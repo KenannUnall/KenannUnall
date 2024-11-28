@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/29/1c/55/291c5593304891ff1607d696f9f3b7a6.gif)
+[![MasterHead](https://i.pinimg.com/originals/29/1c/55/291c5593304891ff1607d696f9f3b7a6.gif)]
 <h1 align="center">Hi 👋, I'm Kenan Ünal</h1>
 
 <h3 align="center">A computer engineer with a passion for artificial intelligence and data science</h3>
