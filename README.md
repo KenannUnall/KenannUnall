@@ -43,10 +43,13 @@
 ---
 
 ### 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kenannunall&show_icons=true&theme=tokyonight" />
-</p>
-<p align="center">
+  <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kenannunall&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kenannunall&theme=tokyonight" alt="kenannunall streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenannunall&layout=compact&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=kenannunall&theme=tokyonight" />
 </p>
