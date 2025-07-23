@@ -84,9 +84,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=kenannunall&show_icons=true&theme=tokyonight" />
 </p>
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kenannunall&theme=tokyonight&column=8&no-bg=true&no-frame=true" />
-</p>
 
