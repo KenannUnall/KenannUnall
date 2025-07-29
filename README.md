@@ -84,6 +84,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=kenannunall&show_icons=true&theme=tokyonight" />
 </p>
 
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=KenannUnall&theme=gruvbox&margin-w=10&margin-h=10" alt="GitHub Trophy" />
-</p>
