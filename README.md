@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kenan Ünal</h1>
-<h3 align="center">Computer Engineer | AI & Data Science Enthusiast | Python Developer</h3>
+<h3 align="center">Computer Engineer | AI & Data Science Enthusiast</h3>
 
 ---
 
