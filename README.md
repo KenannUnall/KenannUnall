@@ -8,7 +8,6 @@
 🔭 Currently focused on:
 - Deep Learning & Machine Learning
 - Data Analysis & Visualization
-- Python Development
 
 ---
 
